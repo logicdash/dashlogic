@@ -42,8 +42,6 @@ I've spent years exploring different paradigms, so I'm comfortable navigating th
 ### 📬 Let's Connect
 I'm always open to discussing tech, new projects, or potential collaborations.
 
-- **Store:** [Link to your Shopier/Store]
-- **Discord:** [Your Discord Username]
-- **Email:** [Your Email Address]
+- **Discord:** justistaken
 
 *“Code the logic, keep it clean.”*
